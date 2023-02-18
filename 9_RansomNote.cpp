@@ -57,19 +57,3 @@ int main()
 
     return EXIT_SUCCESS;
 }
-
-// cout << "Subtr: " << endl;
-// for (auto i : subStr)
-// {
-
-//     cout << i.first << " : " << i.second << endl;
-// }
-
-// cout << endl;
-
-// cout << "Str: " << endl;
-// for (auto i : str)
-// {
-
-//     cout << i.first << " : " << i.second << endl;
-// }
